@@ -1,2 +1,2 @@
 @Library('etechshared-library') _
-springApp ''
+springApp 'https://github.com/etechDevops/etechSprinngapp.git'
